@@ -113,9 +113,9 @@ NODE_ENV=development
 
 PORT=5000
 
-MONGO_URI=mongodb+srv://Eshop_1:Ee611054@eshop.cohvo.mongodb.net/shop?retryWrites=true&w=majority
+MONGO_URI=
 
-JWT_SECRET=AbC1@3
+JWT_SECRET=  
 
 **********************************************END******************************************************
 
